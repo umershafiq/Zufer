@@ -25,10 +25,7 @@ class App extends Component {
     },
     headerLeft: (
       <TouchableOpacity>
-        <Image
-          style={{ height: 22, width: 98, color: "#fff", marginLeft: 25 }}
-          source={require("./images/logo.png")}
-        />
+       
       </TouchableOpacity>
     ),
     headerRight: (

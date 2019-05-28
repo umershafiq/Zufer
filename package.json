@@ -28,7 +28,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "setupFiles": {
+  "setupFiles": [
     "./jest.setup.js"
-  }
+  ]
 }

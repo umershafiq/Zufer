@@ -91,7 +91,7 @@ class App extends Component {
                   />
                   <View style={styles.vidItems}>
                     <Image
-                      source={require("./images/NightKing.jpg")}
+                      source={require("./images/z.png")}
                       style={{
                         width: 40,
                         height: 40,
